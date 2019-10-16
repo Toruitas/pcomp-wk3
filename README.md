@@ -30,9 +30,7 @@ The perfboard + soldered circuit:
 
 ## Lab 02 - Voltage Dividers
 
-Voltage dividers, I struggle with. 
-
-In fact I think I need to go back and do this one again. The basis of it is that the branch with less resistance is where the voltage goes. I think.
+The only thing I could think during this was, what would a voltage divider be used for? Why would you want to drop voltage?
 
 ## Lab 03 - Making a dark detecting LED
 
@@ -45,7 +43,7 @@ Let's suspend disbelief and assume this pumpkin is like a potato and can supply 
 
 Random pumpkin fact - Belgium went to the World Pumpkin Championships 2019 and came away with a clean sweep of 1st, 2nd, and 3rd. Who could have seen that coming?
 
-When powered, this circuit doesn't even need a program to be running on it to accomplish the task.
+When powered by the magic pumpkin, this circuit doesn't even need a program to be running on it to accomplish the task.
 
 ### There were 2 tricky parts. 
 1) the voltage divider - related to Lab #2, It's something I need to spend a little more time studying and experimenting with.
